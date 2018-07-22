@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DS24</string>
+
+    <string name="error_loading">Ошибка загрузки данных</string>
+</resources>
